@@ -1,6 +1,6 @@
 # Python Automation Projects
 
-This repository contains a series of mini Python automation projects.
+This repository contains link to a series of mini Python automation projects.
 
 ## Projects
 
